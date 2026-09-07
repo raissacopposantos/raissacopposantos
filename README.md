@@ -25,3 +25,15 @@ Atualmente, estou explorando diferentes áreas da tecnologia, com interesse em q
 - **Versionamento:** Git, GitHub
   
 - **Sistemas Operacionais:** Linux
+
+## Projetos
+
+### 🧪 Automação de Testes — Swag Labs
+
+Projeto de automação de testes do sistema Swag Labs utilizando Playwright, desenvolvido para a disciplina de Qualidade de Software.
+
+- Automação de cenários de teste
+  
+- Validação de funcionalidades
+  
+- Utilização de Playwright para testes automatizados
