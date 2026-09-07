@@ -11,3 +11,17 @@
 Sou estudante de Engenharia de Software e venho desenvolvendo meus conhecimentos por meio da graduação e de projetos práticos.
 
 Atualmente, estou explorando diferentes áreas da tecnologia, com interesse em qualidade de software, automação de testes e análise de sistemas.
+
+## Tecnologias e Ferramentas
+
+- **Linguagens:** Python, JavaScript, SQL
+  
+- **Desenvolvimento Web:** HTML, CSS
+  
+- **Testes:** Playwright
+  
+- **Banco de Dados:** MySQL
+  
+- **Versionamento:** Git, GitHub
+  
+- **Sistemas Operacionais:** Linux
