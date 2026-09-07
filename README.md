@@ -37,3 +37,9 @@ Projeto de automação de testes do sistema Swag Labs utilizando Playwright, des
 - Validação de funcionalidades
   
 - Utilização de Playwright para testes automatizados
+
+## Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/raissacopposantos/)
+
+- - 📧 E-mail: raissa.coppo.santos@gmail.com
